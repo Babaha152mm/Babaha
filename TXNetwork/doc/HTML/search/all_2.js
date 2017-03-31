@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['tx_5fblocked',['TX_BLOCKED',['../a00028.htm#gga0696d269feb958d9f6fa2d0e1cf7e517a144a9c81c3995174b7058c3f30398242',1,'TXNetwork.h']]],
+  ['tx_5fbroadcast',['TX_BROADCAST',['../a00028.htm#ga1e359e37a66aaeab778423c0c61923d0',1,'TXNetwork.h']]],
+  ['tx_5fclient',['TX_CLIENT',['../a00028.htm#gga0696d269feb958d9f6fa2d0e1cf7e517a5594ab6ae4c1de966d629c79fd2ffc58',1,'TXNetwork.h']]],
+  ['tx_5flocalhost',['TX_LOCALHOST',['../a00028.htm#gadea4550fd711b4de49839e72be38c2d0',1,'TXNetwork.h']]],
+  ['tx_5fnotype',['TX_NOTYPE',['../a00028.htm#gga0696d269feb958d9f6fa2d0e1cf7e517a247d953bff98c6ee1de4ddca128848f3',1,'TXNetwork.h']]],
+  ['tx_5fserver',['TX_SERVER',['../a00028.htm#gga0696d269feb958d9f6fa2d0e1cf7e517a348f2bd7cd4f969b024f32d9cb4c417c',1,'TXNetwork.h']]],
+  ['tx_5fsocket',['TX_SOCKET',['../a00013.htm',1,'']]],
+  ['tx_5fstd_5fport',['TX_STD_PORT',['../a00028.htm#gad3ab3baeb73e77641e348a9aa33516ec',1,'TXNetwork.h']]],
+  ['tx_5funblock',['TX_UNBLOCK',['../a00028.htm#gga0696d269feb958d9f6fa2d0e1cf7e517ada41421eddfa275d174ee7b0177c828e',1,'TXNetwork.h']]],
+  ['txchangesocktype',['txChangeSockType',['../a00028.htm#gacc383fa23591b0a17ebe648a82c1862a',1,'TX_SOCKET']]],
+  ['txcreatesocket',['txCreateSocket',['../a00028.htm#gaa33950777ca73a416134ead3bd8e6ea5',1,'TXNetwork.h']]],
+  ['txgetwinsocket',['txGetWinSocket',['../a00028.htm#gaaf1ee4dbd12ced05ce2492f14e1bb313',1,'TX_SOCKET']]],
+  ['txn_5ferror',['TXN_ERROR',['../a00029.htm#ga8eaa176a913e2ec34778209de1c88983',1,'TXNetwork.h']]],
+  ['txn_5fnot_5fcreated',['TXN_NOT_CREATED',['../a00029.htm#gaa56d5be53827cc51bd2a02fe580e00c9',1,'TXNetwork.h']]],
+  ['txn_5fok',['TXN_OK',['../a00029.htm#ga61504ff34c9e7ad86561df1ffca21759',1,'TXNetwork.h']]],
+  ['txnassert',['txnAssert',['../a00028.htm#ga5e61ac3a46192caddcd98b27325ef953',1,'TX_SOCKET']]],
+  ['txnetwork_2eh',['TXNetwork.h',['../a00026.htm',1,'']]],
+  ['txrecvto',['txRecvTo',['../a00028.htm#ga1ad8a3f60b474e8658cd445ca2c84867',1,'TX_SOCKET']]],
+  ['txsendto',['txSendTo',['../a00028.htm#ga14341d390e934dee0ee0f1160d7c4895',1,'TX_SOCKET']]]
+];

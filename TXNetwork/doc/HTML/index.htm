@@ -1,0 +1,174 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.10"/>
+<title>TXNetwork: Титульная страница</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="resize.js"></script>
+<script type="text/javascript" src="navtreedata.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<script type="text/javascript">
+  $(document).ready(initResizable);
+  $(window).load(resizeHeight);
+</script>
+<link href="Doxyfile.css" rel="stylesheet" type="text/css" />
+<link href="Doxyfile.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td id="projectlogo"><img alt="Logo" src="Logo_small.png"/></td>
+  <td id="projectalign" style="padding-left: 0.5em;">
+   <div id="projectname">TXNetwork
+   &#160;<span id="projectnumber">v. 0.6.3a</span>
+   </div>
+   <div id="projectbrief">&nbsp;ALL? Windows network in a sandbox :)</div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Создано системой Doxygen 1.8.10 -->
+</div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){initNavTree('index.htm','');});
+</script>
+<div id="doc-content">
+<div class="header">
+  <div class="headertitle">
+<div class="title">TXNetwork Документация</div>  </div>
+</div><!--header-->
+<div class="contents">
+<div class="textblock"><p>Библиотека сети тупых художников TXNetwork</p><dl class="section user"><dt>Описание</dt><dd>TXNetwork - Расширение TXLib'a для "работы с сетью", связи между компьютерами по сети. Философия библиотеки наследуется от TXLib'a, следовательно, не все есть в готовом виде, что хотелось бы использовать. Оставшееся делайте ручками. :)</dd></dl>
+<p>А также сообщайте мне обо всем (e-mail: <a href="#" onclick="location.href='mai'+'lto:'+'vov'+'a@'+'txl'+'ib'+'.ru'; return false;">vova@<span style="display: none;">.nosp@m.</span>txli<span style="display: none;">.nosp@m.</span>b.ru</a>).</p>
+<dl class="section version"><dt>Версия</dt><dd>0.6.3a</dd></dl>
+<dl class="section author"><dt>Автор</dt><dd>Copyright (C) <em>RedMan</em> (Vova Yurovsky) <a href="#" onclick="location.href='mai'+'lto:'+'vov'+'a@'+'txl'+'ib'+'.ru'; return false;">vova@<span style="display: none;">.nosp@m.</span>txli<span style="display: none;">.nosp@m.</span>b.ru</a>, 7-8 класс </dd></dl>
+<dl class="section date"><dt>Дата</dt><dd>2015-2016</dd></dl>
+<dl class="section user"><dt></dt><dd>Библиотека создает свой тип (класс C++) <a class="el" href="a00013.htm" title="Cокет TXLib&#39;a. ">TX_SOCKET</a>. Он по использованию похож на HDC Win32 и TXLib'a. Работать с ним надо только через функции этого класса. </dd></dl>
+<dl class="section user"><dt></dt><dd>Также есть примеры. Смотри в файлах в папке Examples. </dd></dl>
+<dl class="section user"><dt></dt><dd>Так как библиотека находится на стадии тестирования, то просьба писать мне (автору) обо всех с ней проблемах по адресу: <a href="#" onclick="location.href='mai'+'lto:'+'vov'+'a@'+'txl'+'ib'+'.ru'; return false;">vova@<span style="display: none;">.nosp@m.</span>txli<span style="display: none;">.nosp@m.</span>b.ru</a>.</dd></dl>
+<dl class="section user"><dt>Как и с чем это использовать?</dt><dd>Библиотека TXNetwork использует другие библиотеки, которые используют технологию раздельной компиляции. Для работы TXNetwork <b>нужно</b> в настройках линкера <b>указать</b> компоновку с библиотекой <code><b>ws2_32</b>.</code> <br />
+<br />
+ В Code::Blocks настройки линкера находятся "Settings/Compiler". Далее выбираете вкладку "Linker Settings", и смотрите в левую панель. Если там уже указано <code>"ws2_32"</code>, то все хорошо. Иначе нажмите кнопку "Add", и введите это название. Нажмите "ОК". Теперь TXNetwork <small>&#160;</small><span class="s"> котов </span><small>&#160;</small> готов к работе с вами. <br />
+<br />
+ Либо в командной строке компилятора надо указать опцию <code>-l</code> <code>ws2_32</code>. </dd></dl>
+<dl class="section user"><dt></dt><dd></dd></dl>
+<dl class="section warning"><dt>Предупреждения</dt><dd>-# <b>Библиотека находится в состоянии альфа-тестирования. Обо всех ошибках сообщайте на почту <a href="#" onclick="location.href='mai'+'lto:'+'vov'+'a@'+'txl'+'ib'+'.ru'; return false;">vova@<span style="display: none;">.nosp@m.</span>txli<span style="display: none;">.nosp@m.</span>b.ru</a>.</b></dd>
+<dd>
+-# <b>При использовании совместно с TXLib: Подключайте TXNetwork <b>ПЕРЕД</b> TXLib'ом </b>.</dd>
+<dd>
+-# <b>TXNetwork удаляет определение (#undef) <b>STRICT_ANSI</b> для совместимости с TXLib'ом</b></dd></dl>
+<hr/>
+<h1><a class="anchor" id="Contents"></a>
+Разделы системы помощи</h1>
+<dl class="section user"><dt></dt><dd><ul>
+<li><a class="el" href="a00017.htm">Компоненты TXNetwork</a></li>
+<li><a class="el" href="a00018.htm">Коды ошибок TXNetwork</a></li>
+</ul>
+</dd></dl>
+<hr/>
+<h1><a class="anchor" id="SimpleExample"></a>
+Очень простой пример</h1>
+<dl class="section user"><dt>Файл: proto.h</dt><dd>общие структуры и константы клиента и сервера <div class="fragment"><div class="line"><span class="comment">// proto.h</span></div>
+<div class="line"></div>
+<div class="line"><span class="comment">// 1. server -&gt; client: Message (char[Message_size])</span></div>
+<div class="line"><span class="comment">// 2. server &lt;- client: Message (char[Message_size])</span></div>
+<div class="line"></div>
+<div class="line"><span class="preprocessor">#include &quot;<a class="code" href="a00015.htm">TXNetwork.h</a>&quot;</span></div>
+<div class="line"><span class="preprocessor">#include &quot;TXLib.h&quot;</span></div>
+<div class="line"></div>
+<div class="line"><span class="keyword">const</span> <span class="keywordtype">size_t</span> Message_size = 256;</div>
+</div><!-- fragment --></dd></dl>
+<dl class="section user"><dt>Файл: server.cpp</dt><dd>Смотрите помощь по функциям TXNetwork - нажимайте на светло-синенькое :) <div class="fragment"><div class="line"><span class="comment">// server.cpp</span></div>
+<div class="line"></div>
+<div class="line"><span class="preprocessor">#include &quot;proto.h&quot;</span></div>
+<div class="line"></div>
+<div class="line"><span class="keywordtype">int</span> main()</div>
+<div class="line">{</div>
+<div class="line">txCreateWindow (1024, 768);</div>
+<div class="line"></div>
+<div class="line">printf (<span class="stringliteral">&quot;Searching for client...\n&quot;</span>);</div>
+<div class="line"><a class="code" href="a00013.htm">TX_SOCKET</a> client = <a class="code" href="a00017.htm#ga28c1c1600ff0df0a1b4443284e14b6d5">txCreateSocket</a> (<a class="code" href="a00017.htm#gga0696d269feb958d9f6fa2d0e1cf7e517a348f2bd7cd4f969b024f32d9cb4c417c">TX_SERVER</a>, <span class="stringliteral">&quot;&quot;</span>);</div>
+<div class="line"></div>
+<div class="line"><span class="keywordtype">char</span> str[Message_size] = <span class="stringliteral">&quot;&quot;</span>;</div>
+<div class="line"></div>
+<div class="line">printf (<span class="stringliteral">&quot;out: &quot;</span>);</div>
+<div class="line">scanf (<span class="stringliteral">&quot;%s&quot;</span>, str);</div>
+<div class="line"><a class="code" href="a00017.htm#gab1932ecc57580c15659f0cc01b695262">txSendTo</a> (client, str, Message_size);</div>
+<div class="line"></div>
+<div class="line"><a class="code" href="a00017.htm#gaf700cdda64317854f43186f0cfa003a1">txRecvFrom</a> (client, str, Message_size);</div>
+<div class="line">printf (<span class="stringliteral">&quot;in: %s\n&quot;</span>, str);</div>
+<div class="line"></div>
+<div class="line"><span class="keywordflow">return</span> 0;</div>
+<div class="line">}</div>
+</div><!-- fragment --></dd></dl>
+<dl class="section user"><dt>Файл: client.cpp</dt><dd>Смотрите помощь по функциям TXNetwork - нажимайте на светло-синенькое :) <div class="fragment"><div class="line"><span class="comment">// client.cpp</span></div>
+<div class="line"></div>
+<div class="line"><span class="preprocessor">#include &quot;proto.h&quot;</span></div>
+<div class="line"></div>
+<div class="line"><span class="preprocessor">#define SERVER_IP &quot;localhost&quot; //IP адрес писать здесь.</span></div>
+<div class="line"></div>
+<div class="line"><span class="keywordtype">int</span> main()</div>
+<div class="line">{</div>
+<div class="line">txCreateWindow (1024, 768);</div>
+<div class="line"></div>
+<div class="line">printf (<span class="stringliteral">&quot;Searching for server...\n&quot;</span>);</div>
+<div class="line"><a class="code" href="a00013.htm">TX_SOCKET</a> client = <a class="code" href="a00017.htm#ga28c1c1600ff0df0a1b4443284e14b6d5">txCreateSocket</a> (<a class="code" href="a00017.htm#gga0696d269feb958d9f6fa2d0e1cf7e517a5594ab6ae4c1de966d629c79fd2ffc58">TX_CLIENT</a>, SERVER_IP);</div>
+<div class="line"></div>
+<div class="line"><span class="keywordtype">char</span> str[Message_size] = <span class="stringliteral">&quot;&quot;</span>;</div>
+<div class="line"></div>
+<div class="line"><a class="code" href="a00017.htm#gaf700cdda64317854f43186f0cfa003a1">txRecvFrom</a> (client, str, Message_size);</div>
+<div class="line">printf (<span class="stringliteral">&quot;in: %s\nout: &quot;</span>, str);</div>
+<div class="line"></div>
+<div class="line">scanf (<span class="stringliteral">&quot;%s&quot;</span>, str);</div>
+<div class="line"><a class="code" href="a00017.htm#gab1932ecc57580c15659f0cc01b695262">txSendTo</a> (client, str, Message_size);</div>
+<div class="line"></div>
+<div class="line"><span class="keywordflow">return</span> 0;</div>
+<div class="line">}</div>
+</div><!-- fragment --></dd></dl>
+<dl class="section user"><dt></dt><dd><ul>
+<li><a class="el" href="a00002.htm">Подробное описание простейшего примера.</a></li>
+</ul>
+</dd></dl>
+<hr/>
+<h1><a class="anchor" id="OtherExamples"></a>
+Другие примеры:</h1>
+<dl class="section user"><dt></dt><dd><ul>
+<li><a class="el" href="a00004.htm">Первый пример</a></li>
+<li><a class="el" href="a00006.htm">Второй пример</a></li>
+<li><a class="el" href="a00008.htm">Третий пример</a></li>
+<li><a class="el" href="a00010.htm">Четвертый пример</a></li>
+<li><a class="el" href="a00012.htm">Твой личный пример!</a> </li>
+</ul>
+</dd></dl>
+</div></div><!-- contents -->
+</div><!-- doc-content -->
+<!-- start footer part -->
+<div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
+  <ul>
+    <li class="footer">Создано системой
+    <a href="http://www.doxygen.org/index.html">
+    <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.10 </li>
+  </ul>
+</div>
+</body>
+</html>

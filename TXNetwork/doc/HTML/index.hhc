@@ -1,0 +1,141 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Разделы системы помощи"><param name="Local" value="index.htm#Contents"><param name="ImageNumber" value="11"></OBJECT>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Очень простой пример"><param name="Local" value="index.htm#SimpleExample"><param name="ImageNumber" value="11"></OBJECT>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Другие примеры:"><param name="Local" value="index.htm#OtherExamples"><param name="ImageNumber" value="11"></OBJECT>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Очень простой пример. Простая пересылка вводимой строки."><param name="Local" value="a00002.htm"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Простейшая программа"><param name="Local" value="a00002.htm#Example1_01"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Файл: client.cpp - код клиента."><param name="Local" value="a00002.htm#Example0_Client_Code"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Файл: server.cpp - код клиента."><param name="Local" value="a00002.htm#Example0_Server_Code"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Файл: proto.h - общие структуры и данные сервера и клиента."><param name="Local" value="a00002.htm#Example0_Proto_Code"><param name="ImageNumber" value="11"></OBJECT>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Первый пример. Синхронизированые шарик на двух компьютерах"><param name="Local" value="a00004.htm"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Файл: client.cpp - код клиента."><param name="Local" value="a00004.htm#Example1_Client_Code"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Файл: server.cpp - код клиента."><param name="Local" value="a00004.htm#Example1_Server_Code"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Файл: proto.h - общие структуры и данные сервера и клиента."><param name="Local" value="a00004.htm#Example1_Proto_Code"><param name="ImageNumber" value="11"></OBJECT>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Второй пример. Сетевая рисовалка."><param name="Local" value="a00006.htm"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Файл: client.cpp - код клиента."><param name="Local" value="a00006.htm#Example2_Client_Code"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Файл: server.cpp - код клиента."><param name="Local" value="a00006.htm#Example2_Server_Code"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Файл: proto.h - общие структуры и данные сервера и клиента."><param name="Local" value="a00006.htm#Example2_Proto_Code"><param name="ImageNumber" value="11"></OBJECT>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Третий пример. Простая сетевая игра - арканоид."><param name="Local" value="a00008.htm"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Файл: client.cpp - код клиента."><param name="Local" value="a00008.htm#Example3_Client_Code"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Файл: server.cpp - код клиента."><param name="Local" value="a00008.htm#Example3_Server_Code"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Файл: proto.h - общие структуры и данные сервера и клиента."><param name="Local" value="a00008.htm#Example3_Proto_Code"><param name="ImageNumber" value="11"></OBJECT>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Четвертый пример. Синхронизированные шарики на многих компьютерах."><param name="Local" value="a00010.htm"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Файл: client.cpp - код клиента."><param name="Local" value="a00010.htm#Example4_Client_Code"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Файл: server.cpp - код клиента."><param name="Local" value="a00010.htm#Example4_Server_Code"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Файл: proto.h - общие структуры и данные сервера и клиента."><param name="Local" value="a00010.htm#Example4_Proto_Code"><param name="ImageNumber" value="11"></OBJECT>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Твой личный пример!."><param name="Local" value="a00012.htm"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="ExampleYour_Code"><param name="Local" value="a00012.htm#ExampleYour_Code"><param name="ImageNumber" value="11"></OBJECT>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Группы"><param name="Local" value="modules.htm"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Сокет TXNetwork"><param name="Local" value="a00017.htm"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="TX_SOCKET"><param name="Local" value="a00013.htm"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="txSendTo"><param name="Local" value="a00013.htm#ab1932ecc57580c15659f0cc01b695262"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="txRecvFrom"><param name="Local" value="a00013.htm#af700cdda64317854f43186f0cfa003a1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="txnAssert"><param name="Local" value="a00013.htm#a5e61ac3a46192caddcd98b27325ef953"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="txChangeSockType"><param name="Local" value="a00013.htm#aac42a63b28b3c029dda53fd90ddd0cb8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="txGetWinSocket"><param name="Local" value="a00013.htm#aaf1ee4dbd12ced05ce2492f14e1bb313"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="TX_BROADCAST"><param name="Local" value="a00017.htm#ga1e359e37a66aaeab778423c0c61923d0"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="TX_STD_PORT"><param name="Local" value="a00017.htm#gad3ab3baeb73e77641e348a9aa33516ec"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="TX_LOCALHOST"><param name="Local" value="a00017.htm#gadea4550fd711b4de49839e72be38c2d0"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="sock_type"><param name="Local" value="a00017.htm#ga0696d269feb958d9f6fa2d0e1cf7e517"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TX_SERVER"><param name="Local" value="a00017.htm#gga0696d269feb958d9f6fa2d0e1cf7e517a348f2bd7cd4f969b024f32d9cb4c417c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TX_CLIENT"><param name="Local" value="a00017.htm#gga0696d269feb958d9f6fa2d0e1cf7e517a5594ab6ae4c1de966d629c79fd2ffc58"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TX_BLOCK"><param name="Local" value="a00017.htm#gga0696d269feb958d9f6fa2d0e1cf7e517a57c7249731b701a916229d3c795ba9fd"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TX_NONBLOCK"><param name="Local" value="a00017.htm#gga0696d269feb958d9f6fa2d0e1cf7e517a80597d9c9785fab539e760bebf2acc22"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TX_NOTYPE"><param name="Local" value="a00017.htm#gga0696d269feb958d9f6fa2d0e1cf7e517a247d953bff98c6ee1de4ddca128848f3"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="txCreateSocket"><param name="Local" value="a00017.htm#ga6cf646e1512cfd0ea4cb426984510914"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="txSendTo"><param name="Local" value="a00017.htm#gab1932ecc57580c15659f0cc01b695262"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="txRecvFrom"><param name="Local" value="a00017.htm#gaf700cdda64317854f43186f0cfa003a1"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="txnAssert"><param name="Local" value="a00017.htm#ga5e61ac3a46192caddcd98b27325ef953"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="txChangeSockType"><param name="Local" value="a00017.htm#gaac42a63b28b3c029dda53fd90ddd0cb8"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="txGetWinSocket"><param name="Local" value="a00017.htm#gaaf1ee4dbd12ced05ce2492f14e1bb313"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Коды ошибок TXNetwork"><param name="Local" value="a00018.htm"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="TXN_NOT_CREATED"><param name="Local" value="a00018.htm#gaa56d5be53827cc51bd2a02fe580e00c9"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="TXN_OK"><param name="Local" value="a00018.htm#ga61504ff34c9e7ad86561df1ffca21759"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="TXN_ERROR"><param name="Local" value="a00018.htm#ga8eaa176a913e2ec34778209de1c88983"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Классы"><param name="Local" value="annotated.htm"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Классы"><param name="Local" value="annotated.htm"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="TX_SOCKET"><param name="Local" value="a00013.htm"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="txSendTo"><param name="Local" value="a00013.htm#ab1932ecc57580c15659f0cc01b695262"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="txRecvFrom"><param name="Local" value="a00013.htm#af700cdda64317854f43186f0cfa003a1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="txnAssert"><param name="Local" value="a00013.htm#a5e61ac3a46192caddcd98b27325ef953"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="txChangeSockType"><param name="Local" value="a00013.htm#aac42a63b28b3c029dda53fd90ddd0cb8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="txGetWinSocket"><param name="Local" value="a00013.htm#aaf1ee4dbd12ced05ce2492f14e1bb313"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Алфавитный указатель классов"><param name="Local" value="classes.htm"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Члены классов"><param name="Local" value="functions.htm"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Указатель"><param name="Local" value="functions.htm"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Относящиеся к классу функции"><param name="Local" value="functions_rela.htm"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Файлы"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Файлы"><param name="Local" value="files.htm"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="TXNetwork.h"><param name="Local" value="a00015.htm"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TX_BROADCAST"><param name="Local" value="a00017.htm#ga1e359e37a66aaeab778423c0c61923d0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TX_STD_PORT"><param name="Local" value="a00017.htm#gad3ab3baeb73e77641e348a9aa33516ec"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TX_LOCALHOST"><param name="Local" value="a00017.htm#gadea4550fd711b4de49839e72be38c2d0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TXN_NOT_CREATED"><param name="Local" value="a00018.htm#gaa56d5be53827cc51bd2a02fe580e00c9"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TXN_OK"><param name="Local" value="a00018.htm#ga61504ff34c9e7ad86561df1ffca21759"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TXN_ERROR"><param name="Local" value="a00018.htm#ga8eaa176a913e2ec34778209de1c88983"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="sock_type"><param name="Local" value="a00017.htm#ga0696d269feb958d9f6fa2d0e1cf7e517"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TX_SERVER"><param name="Local" value="a00017.htm#gga0696d269feb958d9f6fa2d0e1cf7e517a348f2bd7cd4f969b024f32d9cb4c417c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TX_CLIENT"><param name="Local" value="a00017.htm#gga0696d269feb958d9f6fa2d0e1cf7e517a5594ab6ae4c1de966d629c79fd2ffc58"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TX_BLOCK"><param name="Local" value="a00017.htm#gga0696d269feb958d9f6fa2d0e1cf7e517a57c7249731b701a916229d3c795ba9fd"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TX_NONBLOCK"><param name="Local" value="a00017.htm#gga0696d269feb958d9f6fa2d0e1cf7e517a80597d9c9785fab539e760bebf2acc22"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TX_NOTYPE"><param name="Local" value="a00017.htm#gga0696d269feb958d9f6fa2d0e1cf7e517a247d953bff98c6ee1de4ddca128848f3"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="txCreateSocket"><param name="Local" value="a00017.htm#ga6cf646e1512cfd0ea4cb426984510914"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="txSendTo"><param name="Local" value="a00017.htm#gab1932ecc57580c15659f0cc01b695262"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="txRecvFrom"><param name="Local" value="a00017.htm#gaf700cdda64317854f43186f0cfa003a1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="txnAssert"><param name="Local" value="a00017.htm#ga5e61ac3a46192caddcd98b27325ef953"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="txChangeSockType"><param name="Local" value="a00017.htm#gaac42a63b28b3c029dda53fd90ddd0cb8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="txGetWinSocket"><param name="Local" value="a00017.htm#gaaf1ee4dbd12ced05ce2492f14e1bb313"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Список членов всех файлов"><param name="Local" value="globals.htm"><param name="ImageNumber" value="11"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Указатель"><param name="Local" value="globals.htm"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Функции"><param name="Local" value="globals_func.htm"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Перечисления"><param name="Local" value="globals_enum.htm"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Элементы перечислений"><param name="Local" value="globals_eval.htm"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Макросы"><param name="Local" value="globals_defs.htm"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>
